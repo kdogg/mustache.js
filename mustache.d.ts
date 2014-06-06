@@ -1,1 +1,1 @@
-/home/ken/WTS/wtswiki/d.ts/mustache.d.ts
+../../d.ts/mustache.d.ts
